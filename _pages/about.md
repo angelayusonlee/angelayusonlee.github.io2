@@ -3,6 +3,17 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a Ph.D. Candidate in the [Department of Communication]((https://comm.stanford.edu/)) at Stanford University. I am a member of the [Stanford Social Media Lab](url), where I am advised by [Dr. Jeffrey Hancock](url) and [Dr. Sunny X. Liu](url). 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+
+I received my undergraduate degree in Psychology & Communication at Stanford. 
+
+My research program focuses on 
+
+focuses on how people's beliefs about digital media and technology affect their well-being. 
+
+how people interpret their experiences with communication technology. 
+
+My research is supported by the Stanford Interdisciplinary Graduate Fellowship, the Stanford Social Impact Labs, and the Graduate Public Service Fellowship from the Stanford Haas Center. 
+
+I obtained my M.A. degree and my B.A. degress in Psychology and Communication from Stanford University. Outside of academia, I have worked with non-profit organizatons dedicated to supporting youth well-being in the digital age ([My Digital Tat2](https://www.mydigitaltat2.org/)) and caring for individuals and families living with mental illness ([National Alliance for Mental Illness](namisf.org)). 
