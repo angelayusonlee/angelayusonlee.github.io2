@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "Angela Y. Lee"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Ph.D. Candidate Department of Communication Stanford University"
+  avatar : "/assets/images/angelahead3.jpg"
+  bio    : "Ph.D. Candidate\nDepartment of Communication\nStanford University"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
