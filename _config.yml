@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Angela Y. Lee
+subtitle: angela8[at]stanford.edu
 email: angela@stanford.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Website for Angela Y. Lee, PhD candidate in Communication Theory and Research at Stanford University. 
